@@ -1,6 +1,6 @@
 # deb-redis
 
-Redis key value store based on Debian Bullseye Slim.
+Redis key value store based on Debian Bullseye Slim with ReJSON.
 
 Includes:
 
